@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Monitorian
+Comment=Adjust brightness on external DDC/CI monitors
+Exec=/usr/bin/python3 /run/media/gamal/WorkData/Projects/brightness/main.py
+Icon=display-brightness-symbolic
+Terminal=false
+Categories=Utility;
+StartupNotify=false
